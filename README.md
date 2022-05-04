@@ -1,2 +1,2 @@
-# Pequeno projeto feito em java, usando orientação á objetos e usando  herança.
+# Pequeno projet feito em java.
 Desafio com código em Java.
